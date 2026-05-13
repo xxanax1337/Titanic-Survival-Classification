@@ -6,7 +6,7 @@ Test Accuracy: 81.36%
 
 Model Architecture
 
-Input layer: 10 features
+Input layer: 9 features
 Hidden layer 1: 64 neurons (ReLU)
 Hidden layer 2: 32 neurons (ReLU)
 Output layer: 1 neuron (Sigmoid)
